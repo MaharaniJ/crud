@@ -1,0 +1,5 @@
+According to @user2740650
+You said db.json is in src folder. What matters is that it's in the same folder where you started the server. It sounds like it created a default db.json somewhere else and is using that.
+
+Second Scenario
+move your db.json file into the Public folder and calling it by: axios.get('db.json') .then(//...)

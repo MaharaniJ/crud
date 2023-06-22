@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ervin Howll",
+      "username": "Ervin Howll",
+      "email": "ervin@example.com",
+      "phone": "9048724892",
+      "website": "stackoverflow.com"
+    },
+    {
+      "id": 2,
+      "name": "Jackson",
+      "username": "Jackson",
+      "email": "jack@example.com",
+      "phone": "9344872489",
+      "website": "codesandwords.com"
+    },
+    {
+      "id": 3,
+      "name": "Edwin",
+      "username": "Edwin",
+      "email": "Edwin@example.",
+      "phone": "9654871389",
+      "website": "reactjs.org"
+    },
+    {
+      "id": 4,
+      "name": "Antroson",
+      "username": "Antroson",
+      "email": "antroson@example.com",
+      "phone": "9154871386",
+      "website": "nodejs.org"
+    },
+    {
+      "id": 5,
+      "name": "Elise",
+      "username": "Elise",
+      "email": "elise@example.com",
+      "phone": "9754871356",
+      "website": "mongodb.com"
+    },
+    {
+      "id": 6,
+      "name": "Diana",
+      "username": "Diana",
+      "email": "diana@example.com",
+      "phone": "9454871686",
+      "website": "expressjs.org"
+    },
+    {
+      "id": 7,
+      "name": "Priyanka",
+      "username": "Priyanka",
+      "email": "priyanka@exmple.com",
+      "phone": "9954871236",
+      "website": "getbootstrap.com"
+    },
+    {
+      "id": 8,
+      "name": "Aiswarya",
+      "username": "Aiswarya",
+      "email": "aiswarya@exmple.com",
+      "phone": "9854871227",
+      "website": "tailwind.com"
+    },
+    {
+      "id": 9,
+      "name": "Prathisha",
+      "username": "Prathisha",
+      "email": "prathisha@exmple.com",
+      "phone": "9054871245",
+      "website": "mui.com"
+    },
+    {
+      "id": 10,
+      "name": "Prapakaran",
+      "username": "Prapakaran",
+      "email": "prapakaaran@gmail.",
+      "phone": "9254871291",
+      "website": "w3school.com"
+    },
+    {
+      "name": "Maharani",
+      "email": "jeyamaha98@gmail.com",
+      "phone": "09025486399",
+      "website": "www.google.com",
+      "id": 11
+    }
+  ]
+}
